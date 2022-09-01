@@ -12,3 +12,11 @@ export const ImageGallery = styled.ul`
   margin-left: auto;
   margin-right: auto;
 `;
+
+export const NotFound = styled.img`
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+`;
